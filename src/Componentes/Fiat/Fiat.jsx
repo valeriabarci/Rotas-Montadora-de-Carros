@@ -11,11 +11,7 @@ function FiatApp() {
 				<h1>Página Fiat</h1>
 			</div>
 				<Switch>
-					<Route
-						exact
-						path="/fiat"
-						render={() => <Header />}
-					></Route>
+					<Route exact path="/fiat" render={() => <Header />}></Route>
 				</Switch>
 			</div>
 		</div>

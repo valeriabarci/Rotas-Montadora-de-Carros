@@ -11,8 +11,7 @@ function VwApp() {
 			</div>
 			<div>
 				<Switch>
-					<Route exact path="/vw" render={() => <Header />}
-					></Route>
+					<Route exact path="/vw" render={() => <Header />}></Route>
 				</Switch>
 			</div>
 		</div>

@@ -10,11 +10,7 @@ function BrasiliaApp() {
 			</div>
 			<main>
 				<Switch>
-					<Route
-						exact
-						path="/vw/brasilia"
-						render={() => <Header />}
-					></Route>
+					<Route exact path="/vw/brasilia" render={() => <Header />}></Route>
 				</Switch>
 			</main>
 		</div>

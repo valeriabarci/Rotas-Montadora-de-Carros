@@ -10,11 +10,7 @@ function MecanicaApp() {
 			</div>
 			<main>
 				<Switch>
-					<Route
-						exact
-						path="/vw/brasilia/mecanica"
-						render={() => <Header />}
-					></Route>
+					<Route exact path="/vw/brasilia/mecanica" render={() => <Header />}></Route>
 				</Switch>
 			</main>
 		</div>
