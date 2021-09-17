@@ -4,7 +4,7 @@ import Header from "./MecanicaHeader";
 
 function MecanicaApp() {
 	return (
-		<div className="App">
+		<div className="mecanica">
 			<div>
 				<h1>Página Mecânica</h1>
 			</div>

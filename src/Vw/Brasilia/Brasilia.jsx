@@ -4,7 +4,7 @@ import Header from "./BrasiliaHeader";
 
 function BrasiliaApp() {
 	return (
-		<div className="App">
+		<div className="brasilia">
 			<div>
 				<h1>Página Brasília</h1>
 			</div>
